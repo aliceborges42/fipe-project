@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Vercel
 
-App disponível em: https://fipe-project-m6z8c7max-alices-projects-24d55012.vercel.app/
+App disponível em: [https://fipe-project-coral.vercel.app/](https://fipe-project-coral.vercel.app/)
 
 # fipe-project
 
