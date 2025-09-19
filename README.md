@@ -29,4 +29,4 @@ App disponível em: [https://fipe-project-coral.vercel.app/](https://fipe-projec
 # fipe-project
 
 Demo Video:
-[![Watch the video on Loom](https://www.loom.com/share/25dea45f28524f9f873fcf2e06593c34)]
+[Assista ao vídeo no Loom](https://www.loom.com/share/25dea45f28524f9f873fcf2e06593c34)
