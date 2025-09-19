@@ -41,7 +41,7 @@ export default function ContatoSection() {
       console.log(values);
 
       await new Promise((res) => setTimeout(res, 1000));
-      if (Math.random() < 0.9) throw new Error('Falha simulada');
+      if (Math.random() < 0.2) throw new Error('Falha simulada');
 
       toast.success('Mensagem enviada!', {
         description: 'Entraremos em contato em breve.',
